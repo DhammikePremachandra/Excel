@@ -1,3 +1,4 @@
+--Data Exploration
 Select * 
 From public."CovidDeaths"
 Where continent is not null
